@@ -1,6 +1,8 @@
 # My RST API
 
 ## Installation
-```
-pip install flask
+
+```bash
+pip install Flask
+python app.py
 ```
